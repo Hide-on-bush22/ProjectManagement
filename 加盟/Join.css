@@ -7,6 +7,8 @@ body{
 
 ul{
 	list-style: outside none none;
+	width: 1000px;
+
 }
 
 #navigation{
@@ -46,3 +48,25 @@ ul{
 	text-align: center;
 	line-height: 50px;
 } 
+
+#subject{
+	height: 500px;
+}
+
+#subject .name{
+	text-align: center;
+}
+
+#last{
+	height: 300px;
+}
+
+#last .cc{
+	text-align: center;
+	color: #FDFFFF;
+}
+
+#last .bb{
+	text-align: center;
+	color: #FDFFFF;
+}
